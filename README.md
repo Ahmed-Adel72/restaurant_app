@@ -8,7 +8,7 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/392282c5-a034-4c3a-9d64-7400620c0f7e" width="300" />
-  <img src="https://github.com/user-attachments/assets/42bf082d-5ae3-493a-8e27-2753101f2687" width="300" />
+  <img src="https://github.com/user-attachments/assets/fc7c6f94-eaa5-4610-ad6c-5347f4aceadc" width="300" />
 </p>
 
 <p float="left">
