@@ -1,17 +1,18 @@
-# restaurant_app
+# 🛍️ restaurant_app
 
-A new Flutter project.
+# Screen Shots
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4b635459-ec05-4d54-ae24-62d3f7e94cbd" width="300" />
+  <img src="https://github.com/user-attachments/assets/9c97004d-0f6e-4337-8969-9c017fe8618a" width="300" />
+</p>
 
-## Getting Started
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/392282c5-a034-4c3a-9d64-7400620c0f7e" width="300" />
+  <img src="https://github.com/user-attachments/assets/42bf082d-5ae3-493a-8e27-2753101f2687" width="300" />
+</p>
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/84ac2dcb-1735-458e-9dfa-d5430cd6c0bc" width="300" />
+  <img src="https://github.com/user-attachments/assets/927d8f0f-2c49-4e32-b88e-f1a59a4a1168" width="300" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# restaurant_app
